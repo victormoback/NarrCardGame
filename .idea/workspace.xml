@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f74d6c5d-e735-49c7-9921-46cf3645c357" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f74d6c5d-e735-49c7-9921-46cf3645c357" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Card.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Card.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1615">
@@ -42,6 +40,40 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Durak.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Durak.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9146">
+              <caret line="538" column="1" selection-start-line="538" selection-start-column="1" selection-end-line="538" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3319#3500#0" expanded="true" />
+                <element signature="e#3499#3500#0" expanded="true" />
+                <element signature="e#3517#5413#0" expanded="true" />
+                <element signature="e#5412#5413#0" expanded="true" />
+                <element signature="e#7292#7293#0" expanded="true" />
+                <element signature="e#7329#7330#0" expanded="true" />
+                <element signature="e#8826#8827#0" expanded="true" />
+                <element signature="e#8904#8905#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Splash.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Splash.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -59,6 +91,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Card.java" />
         <option value="$PROJECT_DIR$/src/CardDeck.java" />
+        <option value="$PROJECT_DIR$/src/Durak.java" />
+        <option value="$PROJECT_DIR$/src/Splash.java" />
       </list>
     </option>
   </component>
@@ -242,6 +276,36 @@
             <element signature="e#1848#1849#0" expanded="true" />
             <element signature="e#2210#2211#0" expanded="true" />
             <element signature="e#2269#2270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Durak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9146">
+          <caret line="538" column="1" selection-start-line="538" selection-start-column="1" selection-end-line="538" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3319#3500#0" expanded="true" />
+            <element signature="e#3499#3500#0" expanded="true" />
+            <element signature="e#3517#5413#0" expanded="true" />
+            <element signature="e#5412#5413#0" expanded="true" />
+            <element signature="e#7292#7293#0" expanded="true" />
+            <element signature="e#7329#7330#0" expanded="true" />
+            <element signature="e#8826#8827#0" expanded="true" />
+            <element signature="e#8904#8905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Splash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
           </folding>
         </state>
       </provider>
