@@ -12,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Card.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Card.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1615">
@@ -40,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Durak.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Durak.java">
+      <file leaf-file-name="Narr.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Narr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            <state relative-caret-position="9146">
+              <caret line="538" column="1" lean-forward="true" selection-start-line="538" selection-start-column="1" selection-end-line="538" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3319#3500#0" expanded="true" />
@@ -150,12 +150,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Card.java" />
-        <option value="$PROJECT_DIR$/src/Durak.java" />
         <option value="$PROJECT_DIR$/src/Splash.java" />
         <option value="$PROJECT_DIR$/src/CardDeck.java" />
         <option value="$PROJECT_DIR$/src/RandomCardDeck.java" />
         <option value="$PROJECT_DIR$/src/RenderedCard.java" />
         <option value="$PROJECT_DIR$/src/DurakDeck.java" />
+        <option value="$PROJECT_DIR$/src/Durak.java" />
+        <option value="$PROJECT_DIR$/src/Narr.java" />
       </list>
     </option>
   </component>
@@ -274,6 +275,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="208" y="137" width="1219" height="842" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -284,12 +286,12 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24937657" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32954547" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24937657" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -307,6 +309,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/DurakDeck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/RandomCardDeck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -325,17 +338,6 @@
             <element signature="e#585#586#0" expanded="true" />
             <element signature="e#1015#1016#0" expanded="true" />
             <element signature="e#1039#1040#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DurakDeck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -371,6 +373,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Narr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9146">
+          <caret line="538" column="1" lean-forward="true" selection-start-line="538" selection-start-column="1" selection-end-line="538" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3319#3500#0" expanded="true" />
+            <element signature="e#3499#3500#0" expanded="true" />
+            <element signature="e#3517#5413#0" expanded="true" />
+            <element signature="e#5412#5413#0" expanded="true" />
+            <element signature="e#7292#7293#0" expanded="true" />
+            <element signature="e#7329#7330#0" expanded="true" />
+            <element signature="e#8826#8827#0" expanded="true" />
+            <element signature="e#8904#8905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Card.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1615">
@@ -393,24 +413,6 @@
             <element signature="e#1848#1849#0" expanded="true" />
             <element signature="e#2210#2211#0" expanded="true" />
             <element signature="e#2269#2270#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Durak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3319#3500#0" expanded="true" />
-            <element signature="e#3499#3500#0" expanded="true" />
-            <element signature="e#3517#5413#0" expanded="true" />
-            <element signature="e#5412#5413#0" expanded="true" />
-            <element signature="e#7292#7293#0" expanded="true" />
-            <element signature="e#7329#7330#0" expanded="true" />
-            <element signature="e#8826#8827#0" expanded="true" />
-            <element signature="e#8904#8905#0" expanded="true" />
           </folding>
         </state>
       </provider>

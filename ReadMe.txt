@@ -6,8 +6,8 @@ motståndaren försöker slå dem. Om man inte kan slå dem, måste denna ta upp all k
 till 6 kort, om man inte redan har fler än det. 
 
 Detta är en runda. Om för exempel det är spelarens tur att lägga ("hit") kort, trycker man på kortet man vill att datorn ska slå.
-Man slår ett kort genom att lägga högre av samma färg, eller alternativt av ett högre kort av valören som visas till höger på skärmen som 
-bestäms i början av spelet (någon form av trumf).
+Man slår ett kort genom att lägga högre av samma färg, eller alternativt ett kort av valören som visas till höger på skärmen som 
+bestäms i början av spelet (trumf-färg).
 
 Nu när det är två kort på bordetså kan man välja att lägga ett kort till som datorn ska slå eller trycka på "end turn" knappen och låta 
 datorn lägga ett kort som spelaren ska slå. För att kunna lägga ut ytterligare ett kort på bordet måste det kortet ha samma värde som
