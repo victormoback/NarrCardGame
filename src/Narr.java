@@ -3,9 +3,9 @@ import java.awt.event.*;
 import java.awt.*;
 import javax.swing.ImageIcon;
 
-public class Durak extends Frame {
+public class Narr extends Frame {
 
-    public static final String STRING_WINDOW_NAME = "Durak";
+    public static final String STRING_WINDOW_NAME = "Narr";
     private DurakDeck deck;
     private Vector<Card> computerHand;
     private Vector<Card> playerHand;
@@ -190,7 +190,7 @@ public class Durak extends Frame {
         setResizable(true);
     }
 
-    public Durak() {
+    public Narr() {
         //initalize general settings for frame
         super(STRING_WINDOW_NAME);
         setIconImage(new ImageIcon("picture_data/kh.gif").getImage());
@@ -231,7 +231,7 @@ public class Durak extends Frame {
     }
 
     public static void main(String[] args) {
-        Durak d = new Durak();
+        Narr d = new Narr();
     }
 
     public void updateFrame() {
