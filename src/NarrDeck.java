@@ -1,8 +1,8 @@
 import java.awt.event.*;
 
-public final class DurakDeck extends RandomCardDeck {
+public final class NarrDeck extends RandomCardDeck {
 
-    public DurakDeck() {
+    public NarrDeck() {
         selectCards();
     }
 

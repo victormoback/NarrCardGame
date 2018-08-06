@@ -6,7 +6,7 @@ import javax.swing.ImageIcon;
 public class Narr extends Frame {
 
     public static final String STRING_WINDOW_NAME = "Narr";
-    private DurakDeck deck;
+    private NarrDeck deck;
     private Vector<Card> computerHand;
     private Vector<Card> playerHand;
     private Vector<Card> table;
@@ -35,7 +35,7 @@ public class Narr extends Frame {
         computerHand = new Vector<Card>();
         playerHand = new Vector<Card>();
         table = new Vector<Card>();
-        deck = new DurakDeck();
+        deck = new NarrDeck();
         deck.addMouseListenersToCards(ml);
         playerHand.clear();
         computerHand.clear();
